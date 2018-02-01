@@ -1,1 +1,0 @@
-# osn-presale-contract
